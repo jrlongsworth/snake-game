@@ -2,8 +2,6 @@
 
 This is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript.
 
-![Game Screenshot](screenshot.png)
-
 ## How to Play
 
 1. Use the arrow keys to move the snake.
